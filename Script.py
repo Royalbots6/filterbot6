@@ -1,10 +1,10 @@
 class script(object):
     START_TXT = """𝙃𝙚𝙮 {},
-𝙄 𝙖𝙢 <a href=https://t.me/{}>{}</a>, 𝙔𝙤𝙪 𝘾𝙖𝙣 𝘼𝙙𝙙 𝙈𝙚 𝙊𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥, 𝘼𝙣𝙙 𝘼𝙙𝙙 𝙐𝙣𝙡𝙞𝙢𝙞𝙩𝙚𝙙 𝙁𝙞𝙡𝙩𝙚𝙧𝙨 """
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+𝙄 𝙖𝙢 <a href=https://t.me/{}>{}</a>,😃 𝙔𝙤𝙪 𝘾𝙖𝙣 𝘼𝙙𝙙 𝙈𝙚 𝙊𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥,   𝘼𝙣𝙙 𝘼𝙙𝙙 𝙐𝙣𝙡𝙞𝙢𝙞𝙩𝙚𝙙 𝙁𝙞𝙡𝙩𝙚𝙧𝙨 😎 """
+    HELP_TXT = """𝙃𝙚𝙮 {}
+𝙃𝙚𝙧𝙚 𝙞𝙨 𝙩𝙝𝙚 𝙝𝙚𝙡𝙥 𝙛𝙤𝙧 𝙢𝙮 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Royaldeep01>Royaldeep</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Royaldeep01>𝚁𝙾𝚈𝙰𝙻𝙳𝙴𝙴𝙿</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -15,7 +15,7 @@ class script(object):
 - Source - https://youtube.com/channel/UC71RL4CM56PErce-jgMQafA  
 
 <b>DEVS:</b>
-- <a href=https://t.me/teamfilterbot>Team Filter Bot</a>"""
+- <a href=https://t.me/Royaldeep01>𝚁𝙾𝚈𝙰𝙻𝙳𝙴𝙴𝙿</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
