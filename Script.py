@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """𝙃𝙚𝙮 {},
-𝙄 𝙖𝙢 <a href=https://t.me/{}>{}</a>,😃 𝙔𝙤𝙪 𝘾𝙖𝙣 𝘼𝙙𝙙 𝙈𝙚 𝙊𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥,   𝘼𝙣𝙙 𝘼𝙙𝙙 𝙐𝙣𝙡𝙞𝙢𝙞𝙩𝙚𝙙 𝙁𝙞𝙡𝙩𝙚𝙧𝙨 😎 """
+𝙄 𝙖𝙢 <a href=https://t.me/{}>{}</a>, 😃  𝙔𝙤𝙪 𝘾𝙖𝙣 𝘼𝙙𝙙 𝙈𝙚 𝙊𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥, 𝘼𝙣𝙙 𝘼𝙙𝙙 𝙐𝙣𝙡𝙞𝙢𝙞𝙩𝙚𝙙 𝙁𝙞𝙡𝙩𝙚𝙧𝙨 😎 """
     HELP_TXT = """𝙃𝙚𝙮 {}
 𝙃𝙚𝙧𝙚 𝙞𝙨 𝙩𝙝𝙚 𝙝𝙚𝙡𝙥 𝙛𝙤𝙧 𝙢𝙮 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -11,10 +11,10 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://youtube.com/channel/UC71RL4CM56PErce-jgMQafA  
+- Please Subscribe My Channel For New Updates . 
+- SUBSCRIBE - https://youtube.com/channel/UC71RL4CM56PErce-jgMQafA  
 
-<b>DEVS:</b>
+<b>DEVOLOPER:</b>
 - <a href=https://t.me/Royaldeep01>𝚁𝙾𝚈𝙰𝙻𝙳𝙴𝙴𝙿</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
