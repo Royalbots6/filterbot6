@@ -11,10 +11,15 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Please Subscribe My Channel For New Updates . 
-- SUBSCRIBE - https://youtube.com/channel/UC71RL4CM56PErce-jgMQafA  
+- 𝙃𝙚𝙮 𝙅𝙤𝙞𝙣 𝙊𝙪𝙧 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 .
 
-<b>DEVOLOPER:</b>
+- 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝙈𝙮 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙁𝙤𝙧 𝙉𝙚𝙬 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 . 
+
+- 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 - https://youtube.com/channel/UC71RL4CM56PErce-jgMQafA  
+
+- 𝙄𝙛 𝙔𝙤𝙪 𝙒𝙖𝙣𝙩 𝙎𝙖𝙢𝙚 𝘽𝙤𝙩 𝙏𝙤 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚 🤏 .
+- 𝙄𝙣 𝙩𝙝𝙚 𝙘𝙝𝙚𝙖𝙥𝙚𝙨𝙩 𝙥𝙧𝙞𝙘𝙚 🤑 .
+<b>𝘿𝙚𝙫𝙤𝙡𝙤𝙥𝙚𝙧:</b>
 - <a href=https://t.me/Royaldeep01>𝚁𝙾𝚈𝙰𝙻𝙳𝙴𝙴𝙿</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
