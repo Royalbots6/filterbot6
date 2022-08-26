@@ -21,8 +21,8 @@ class script(object):
 - 𝙄𝙛 𝙔𝙤𝙪 𝙒𝙖𝙣𝙩 𝙎𝙖𝙢𝙚 𝘽𝙤𝙩 𝙏𝙤 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚 🤏 .
 - 𝙄𝙣 𝙘𝙝𝙚𝙖𝙥𝙚𝙨𝙩 𝙥𝙧𝙞𝙘𝙚 🤑 .
 
- <b>𝘿𝙚𝙫𝙤𝙡𝙤𝙥𝙚𝙧:</b>
-👉 <a href=https://t.me/Royaldeep01>𝚁𝙾𝚈𝙰𝙻𝙳𝙴𝙴𝙿</a>"""
+👉 <b>😎 𝘿𝙚𝙫𝙤𝙡𝙤𝙥𝙚𝙧</b>
+ <a href=https://t.me/Royaldeep01>𝙍𝙤𝙮𝙖𝙡𝙙𝙚𝙚𝙥</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
